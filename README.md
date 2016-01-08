@@ -24,10 +24,15 @@
 
 申请成为建筑工程师，才能参与到还原江南大学的建设中，请加QQ群找liangzr申请。
 
+###服务器相关
+
+- 服务器地址：undesoft.com:26051
+- [服务器设置](server-properties.md)
+
 ###联系方式
 
 - 江南大学Minecraft群：1181402573
 - liangzr邮箱：liangzr@outlook.com
-- 服务器地址：undesoft.com:26051
+
 
 
