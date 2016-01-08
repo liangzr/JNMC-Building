@@ -18,7 +18,7 @@
 
 - 服务器每天自动备份地图
 - 每周备份一次地图文件打包上传到本库
-- 每月用World-Edit保存地图文件(library.schematic)到本库
+- 每月用World-Edit保存地图文件(jnmc.schematic)到本库
 
 ###参与建筑
 
