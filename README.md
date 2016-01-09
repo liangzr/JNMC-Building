@@ -28,6 +28,7 @@
 
 - 服务器地址：undesoft.com:26051
 - [服务器设置](server-properties.md)
+- [Q&A](Q&A.md) 
 
 ###联系方式
 
