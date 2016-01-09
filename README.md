@@ -31,7 +31,7 @@
 
 ###联系方式
 
-- 江南大学Minecraft群：1181402573
+- 江南大学Minecraft群：426947349
 - liangzr邮箱：liangzr@outlook.com
 
 
