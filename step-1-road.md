@@ -11,4 +11,3 @@
 
 - [3D江大](http://map.jiangnan.edu.cn/Default.aspx)
 - [百度地图江南大学街景](http://map.baidu.com/#panoid=01000100001307161436067755K&panotype=street&heading=270.72630111093156&pitch=7.07242142360094&l=12&tn=B_NORMAL_MAP&sc=0&newmap=1&shareurl=1&pid=01000100001307161436067755K)
-- 
