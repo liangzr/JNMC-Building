@@ -27,7 +27,7 @@
 
 ### 服务器相关
 
-- 服务器地址：*undesoft.com:26051*（**目前服务器由czp赞助**）
+- 服务器地址：*undesoft.com:26051*（**目前服务器由[czp](http://www.hiczp.com)赞助**）
 - [服务器设置](server-properties.md)
 - [Q&A](Q&A.md) 
 
